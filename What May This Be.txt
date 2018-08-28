@@ -1,2 +1,4 @@
 if(you are stupid())
 say ("Well Hello There");
+else
+Destroy.this.computer;
